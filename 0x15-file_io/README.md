@@ -1,3 +1,1 @@
-
-
-0x15. C - File I/O
+It is about file input and output
