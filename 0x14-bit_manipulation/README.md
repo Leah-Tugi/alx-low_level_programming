@@ -1,1 +1,1 @@
-manipulating bits and using bitwise operators
+Manipulating bits using bitwise operators in C
